@@ -24,5 +24,5 @@ jobs:
           destination-repository-name: 'knowledgebase'
           user-email: dev@alterra.id
           destination-branch: master
-          system-name: SYSTEM
+          system-name: 'BPA/Civet'
 
